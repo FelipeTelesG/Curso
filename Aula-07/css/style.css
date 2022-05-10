@@ -1,0 +1,32 @@
+/*
+podemos selecionar de Três formas
+1 classe
+2 id
+3 a propria tag
+*/
+
+h1 {
+    color:aquamarine;
+    font-size: 70px;
+}
+
+.titulo-principal {
+    color:red;
+}
+
+.titulo-secundario {
+    color:black;
+}
+
+#lista-de-compras {
+    font-size: 30px;
+}
+
+.quadrinhos {
+    font-family: cursive;
+}
+
+.fonte-dh {
+    font-family:'Rajdhani', sans-serif;
+    font-weight: bold;
+}

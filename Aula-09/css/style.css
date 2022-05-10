@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.branco{
+    box-sizing: border-box;
+    width: 1024px;
+    height: 1024px;
+    background-color: black;
+    display: flex;
+}
+
+.desconto {
+    background-color: aqua;
+    width: 100%;
+    height: 38px;
+}
+
+.herois {
+    background: #00669f;
+    height: 101px;
+    width: 1024;
+    left: 0px;
+    top: 38px;
+    border-radius: 0px;
+}
+
+.quadrado {
+    width: 800px;
+    height: 800px;
+    background-color: blue;
+    border-width: 10px;
+    border-style: solid;
+    border-color:white;
+    border-radius: 20px;
+}

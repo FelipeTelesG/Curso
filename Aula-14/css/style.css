@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(93, 93, 93);
+}
+
+.quadrado {
+    width: 100px;
+    height: 200px;
+    background-color: khaki;
+    border-radius: 10px;
+}
+
+/* media Querrey para celulares de resolução baixa */
+@media (min-width: 460px) {
+    .quadrado {
+        background-color: teal;
+    }
+}
+
+/* Media Querry para celulares de resolução média */
+
+@media (min-width: 800px) {
+    .quadrado {
+        background-color: red;
+    }
+}
